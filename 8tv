@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="",8TV
+#EXTINF:-1,8TV
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
